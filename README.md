@@ -28,8 +28,8 @@ This repo fixes that by forcing you to apply each concept through a real mini pr
 | No. | OOP Concept | Project Title | Status |
 | :---: | :--- | :--- | :---: |
 | 1 | Classes & Objects | **Bank Account System** | ✅ Completed |
-| 2 | Constructors | **Student Report Card Generator** | ⏳ Pending |
-| 3 | Encapsulation | **Employee Payroll System** | ⏳ Pending |
+| 2 | Constructors | **Student Report Card Generator** | ✅ Completed |
+| 3 | Encapsulation | **Employee Payroll System** | ✅ Completed |
 | 4 | Inheritance | **Vehicle Management System** | ⏳ Pending |
 | 5 | Polymorphism | **Online Payment Gateway** | ⏳ Pending |
 | 6 | Abstraction | **Food Delivery System** | ⏳ Pending |
@@ -48,7 +48,7 @@ java-oop-mini-projects/
 ├── 01-bank-account-system/
 │   └── src/
 │       └── BankAccount.java
-│       └── Main.java
+│       └── src.EmployeePayroll.Main.java
 │
 ├── 02-student-report-card/
 │   └── src/
